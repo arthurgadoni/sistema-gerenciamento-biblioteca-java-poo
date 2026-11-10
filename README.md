@@ -1,14 +1,15 @@
 # Exercício Prático:<br> Sistema de Gerenciamento de Biblioteca (POO em Java)
 
-**Disciplina:** Algoritmos e Programação  
-**Professor:** Daniel Henrique Matos de Paiva 
+**Disciplina:** Algoritmos e Programação  <br>
+**Professor:** Daniel Henrique Matos de Paiva <br>
 **Objetivo:** Consolidar os conceitos fundamentais de Programação Orientada a Objetos (POO) em Java, aplicando pilares como Encapsulamento, Herança, Polimorfismo e Associações entre classes.
 
 ---
 
 ## 📚 Contextualização do Problema
 
-Você foi contratado para desenvolver o protótipo de um sistema de gerenciamento para uma biblioteca universitária. O sistema precisa controlar o acervo de livros, o cadastro de usuários (alunos e professores), o processo de empréstimos e a aplicação de multas por atraso na devolução.
+Você foi contratado para desenvolver o protótipo de um sistema de gerenciamento para uma biblioteca universitária. <br>
+O sistema precisa controlar o acervo de livros, o cadastro de usuários (alunos e professores), o processo de empréstimos e a aplicação de multas por atraso na devolução.
 
 Para que o sistema seja modular e mantenha uma boa arquitetura orientada a objetos, você deverá projetar e implementar **no mínimo 07 (sete) classes**, além de uma classe principal para demonstração e testes (`Programa.java`).
 
@@ -20,7 +21,7 @@ Você deve criar o projeto em Java contendo as seguintes classes e estruturas:
 
 ### 1. Classes de Domínio e Lógica (Mínimo de 07 classes)
 
-Escolha e implemente pelo menos 7 classes que façam sentido no contexto de uma biblioteca. Sugestões de classes obrigatórias e opcionais para compor o seu conjunto:
+Escolha e implemente pelo menos 7 classes que façam sentido no contexto de uma biblioteca. <br>Sugestões de classes obrigatórias e opcionais para compor o seu conjunto:
 
 1. **`Livro`**: Representa um livro físico ou digital do acervo (atributos: título, autor, ISBN, ano de publicação, quantidade disponível).
 2. **`Usuario`** (Classe Abstrata ou Base): Representa uma pessoa cadastrada (atributos: nome, CPF, e-mail).
